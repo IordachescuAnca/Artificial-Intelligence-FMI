@@ -1,0 +1,6 @@
+[[toddler],[n(toddler), child], [n(child), n(male), boy], [n(infant), child], [n(child), n(female), girl], [female], [girl]].
+[[toddler],[n(toddler), child], [n(child), n(male), boy], [n(infant), child], [n(child), n(female), girl], [female], [n(girl)]].
+[[n(a),b],[c,d],[n(d),b],[n(c),b],[n(b)]].
+[[n(b),a],[n(a),b,e],[e],[a, n(e)],[n(a)]].
+[[n(a), n(e),b],[n(d),e,n(b)],[n(e),f,n(b)],[f,n(a),e],[e,f,n(b)]].
+[[a,b],[n(a),n(b)] ,[n(a),b] ,[a,n(b)]].
