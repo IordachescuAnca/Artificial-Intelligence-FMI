@@ -1,0 +1,3 @@
+[(or, [blood/high], risk/high),
+(or,[blood/moderate,cholesterol/moderate],risk/moderate),
+(or, [blood/low, cholesterol/low], risk/low)].

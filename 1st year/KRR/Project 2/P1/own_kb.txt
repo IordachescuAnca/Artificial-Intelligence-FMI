@@ -1,0 +1,1 @@
+[[n(age_14), n(visa), travel_plane],[n(travel_plane), n(vacinnated_2_times), arrive_USA], [n(not_stay_more_90_days), n(jorney_t_b), visa]].
